@@ -130,7 +130,7 @@ a:active {
 /*-------------------------------------------*/
 
 .table_wrapp {
-    max-width: 1320px;
+    width: 1320px;
     margin: 0 auto;
     position: relative;
 }
